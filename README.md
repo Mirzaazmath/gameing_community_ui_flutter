@@ -6,6 +6,18 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
+# Screenshot 1
+
+<img src="https://github.com/Mirzaazmath/gameing_community_ui_flutter/blob/main/assets/output/Screenshot1.png" height ="400">
+
+
+
+# Screenshot 2
+
+<img src="https://github.com/Mirzaazmath/gameing_community_ui_flutter/blob/main/assets/output/Screenshot2.png" height ="400">
+
+
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
